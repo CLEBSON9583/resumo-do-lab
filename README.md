@@ -2,10 +2,14 @@
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 # O que é Computação em Nuvem?
-Trata-se da oferta de serviços computacionais pela internet, que disponibiliza:
-Inovação acelerada
-Recursos adaptáveis
-Economias em larga escala
+Trata-se da oferta de serviços computacionais pela internet, que disponibiliza.
+
+Inovação acelerada.
+
+Recursos adaptáveis.
+
+Economias em larga escala.
+
 Os serviços incluem computação, redes e armazenamento.
 
 # Modelos de Nuvem
