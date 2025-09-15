@@ -28,5 +28,6 @@ Híbrida: definição do local de processamento, flexibilidade e aderência a ex
 
 # CapEx vs OpEx
 CapEx (Despesas de Capital): investimento prévio em infraestrutura física; o valor diminui ao longo do tempo.
+
 OpEx (Despesas Operacionais): cobranças conforme o uso, custos imediatos e flexíveis.
 
