@@ -21,7 +21,9 @@ Fusão de nuvem pública e privada, permitindo maior flexibilidade.
 
 # Comparação dos Modelos
 Pública: sem custos iniciais, escalável conforme a necessidade, pagamento apenas pelo uso.
+
 Privada: controle total sobre segurança e recursos, manutenção sob responsabilidade da organização.
+
 Híbrida: definição do local de processamento, flexibilidade e aderência a exigências legais e de conformidade.
 
 # CapEx vs OpEx
