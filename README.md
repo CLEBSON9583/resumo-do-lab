@@ -10,13 +10,13 @@ Os serviços incluem computação, redes e armazenamento.
 
 # Modelos de Nuvem
 
-Nuvem Privada: 
+Nuvem Privada. 
 Espaço em um data center próprio; controle total, mas limitado à organização.
 
-Nuvem Pública: 
+Nuvem Pública. 
 Recursos disponibilizados por provedores (Azure, AWS, GCP), acessíveis pela internet.
 
-Nuvem Híbrida: 
+Nuvem Híbrida. 
 Fusão de nuvem pública e privada, permitindo maior flexibilidade.
 
 # Comparação dos Modelos
